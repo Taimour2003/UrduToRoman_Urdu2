@@ -1,0 +1,12 @@
+{
+  "pad_id": 0,
+  "unk_id": 1,
+  "sos_id": 2,
+  "eos_id": 3,
+  "input_dim": 54,
+  "output_dim": 32,
+  "embed_dim": 256,
+  "hidden_dim": 512,
+  "enc_layers": 2,
+  "dec_layers": 4
+}
